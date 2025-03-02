@@ -8,9 +8,9 @@ about their gravity values, composition, average density, inclination, and more.
 ### Plan
 - [ ] fully setup the plan and readme (from what I have plannd)
 - [ ] create home page for the website
--   [ ] show info about the website
--   [ ] have github repo link and link to creator
--   [ ] do cool thingy with info section where it goes up when you scroll
+    - [ ] show info about the website
+    - [ ] have github repo link and link to creator
+    - [ ] do cool thingy with info section where it goes up when you scroll
 - [ ] create interactive planet page (for now just the bg and header for links)
 - [ ] create planet images that can be clicked for a script to be run
 - [ ] create orbit lines
@@ -20,6 +20,6 @@ about their gravity values, composition, average density, inclination, and more.
 
 bonus: 
 - [ ] make translations for the website
--   [ ] translate home page and add translation button
--   [ ] translate interactive page with the texts
+    - [ ] translate home page and add translation button
+    - [ ] translate interactive page with the texts
 - [ ] host website on vercel
